@@ -10,4 +10,4 @@ You can enter your events for each day.
 
 It is easy to update and use.
 
-Check it out here: 
+Check it out here: https://sandycchen.github.io/Work-Day-Scheduler/index.html
